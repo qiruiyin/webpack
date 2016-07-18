@@ -1,0 +1,17 @@
+{
+  "name": "webpack",
+  "description": "",
+  "authors": [
+    "qiruiyin"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "sass",
+    "bower"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "sandal": "https://github.com/marvin1023/sandal.git"
+  }
+}
